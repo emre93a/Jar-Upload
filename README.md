@@ -1,1 +1,3 @@
 # Jar-Upload
+
+Framework klasöründeki java dosyalarını yüklüyorum...
